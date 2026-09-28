@@ -1,0 +1,4 @@
+.vscode/
+__pycahce__/
+*.pyc
+config.ini
